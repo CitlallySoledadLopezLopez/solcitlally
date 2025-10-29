@@ -354,7 +354,6 @@ body {
     transform: translateX(-50%) translateY(-5px) scale(1.05);
 }
 
-/* Contenido del producto */
 .flavour-card h4,
 .flavour-card p,
 .flavour-card button {
